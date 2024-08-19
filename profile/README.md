@@ -1,6 +1,6 @@
 # Prototype Link
-- [Educator-APP Prototype Link(바로가기)](https://www.figma.com/proto/TxMTuJdBAhUggDmBDHQubh/Say-Better?node-id=873-4173&t=AhYmmcEAXCIEU7Bs-1&starting-point-node-id=873%3A4173&show-proto-sidebar=1)
-- [Learner-APP Prototype Link(바로가기)](https://www.figma.com/proto/TxMTuJdBAhUggDmBDHQubh/Say-Better?node-id=2278-7892&t=AhYmmcEAXCIEU7Bs-1&starting-point-node-id=1663%3A1839&show-proto-sidebar=1&scaling=contain)
+## [Educator-APP Prototype Link(바로가기)](https://www.figma.com/proto/TxMTuJdBAhUggDmBDHQubh/Say-Better?node-id=873-4173&t=AhYmmcEAXCIEU7Bs-1&starting-point-node-id=873%3A4173&show-proto-sidebar=1)
+## [Learner-APP Prototype Link(바로가기)](https://www.figma.com/proto/TxMTuJdBAhUggDmBDHQubh/Say-Better?node-id=2278-7892&t=AhYmmcEAXCIEU7Bs-1&starting-point-node-id=1663%3A1839&show-proto-sidebar=1&scaling=contain)
 
 <p align="center">
 <img src="https://github.com/Say-Better/Android-Learner-APP/assets/139129405/616daea5-2c7b-4891-967f-7ee175fb3fe9" width="700px" alt="SayBetter Logo" />
